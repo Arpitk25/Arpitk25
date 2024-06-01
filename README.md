@@ -1,3 +1,12 @@
+# My Project
+
+Welcome to my project! Here's a cool Octocat for you:
+
+![NUX Octodex](https://octodex.github.com/images/NUX_Octodex.gif)
+
+## Introduction
+
+This project is all about...
 
 
 <!--
