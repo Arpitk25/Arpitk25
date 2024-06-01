@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/arpit.k.mishra?utm_source=qr&igsh=d3g3OW94cWVleDVu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Arpitk25" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/arpitk52" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Arpitk25" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Arpitk52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Arpitk25" height="30" width="40" /></a>
 <a href="https://x.com/ARPITMI13198107" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="Arpitk25" height="30" width="40" /></a>
 </p>
 
