@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arpitk25&label=Profile%20views&color=0e75b6&style=flat" alt="Arpitk25" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack,NEXT.JS**
+- 🌱 I’m currently learning **Unreal Engine**
 
 - 💬 Ask me about **React.JS, Node.JS, Python**
 
